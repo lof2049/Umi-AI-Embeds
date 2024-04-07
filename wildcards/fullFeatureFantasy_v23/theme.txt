@@ -1,0 +1,173 @@
+<lora:VampiricTech:0.4>, vamptech {,vampiric|}
+<lora:GothicPunkAI:0.5>, gothicpunkai, gothic
+<lora:GothicHorrorAI:0.5>, gothichorrorai, gothic
+<lora:Concept - Blood Magic:0.4>, {swirling blood,|} {blood,|} {magic,|} bloodmagic
+<lora:BloodMagic:0.5> {fantasy,|} {magical energy,|} {blood,|} bloodmagic
+<lora:runemagic:0.4>, {magic_circle,} Rune_Magic
+<lora:Magic Circle_20230812103010:0.6>, Magic Circle
+<lora:GlyphTech:0.5>, {glyphs,|symbols,|} {25%scifi,|} {25%hologram,|} {25%magic circle,|} glyphtech
+<lora:GlowingRunesAIv4:0.6>, {GlowingRunesAI_red|GlowingRunesAI_paleblue|GlowingRunesAI_green|GlowingRunes_purple|GlowingRunes_yellow|GlowingRunes_pink}, glowing runes
+<lora:WizardCoreAISD15:0.5> vibrant colors, wizardcoreai
+<lora:DonMASKTex:0.4>, {scifi,|astral magic,|} {energy tubes,|} {glowing liquid,|} {rotators,|} DonMASKTex
+<lora:WorldofShadows:0.4>, {shadow aura,|} {purple and black,|} worldofshadows
+<lora:PsionicMagic:0.4> {mana flow,|} {shimmers,|} {psychic energy,|} psionicmagic
+<lora:kVoidEnergy-000001:0.5>, V0id3nergy, void
+<lora:Concept - Shadowmancer:0.4>, {{swirling black|} ink,|} shad0wmancer
+<lora:WorldofWater:0.6>, worldofwater
+<lora:EntropyMagic:0.6> {fantasy,|} {dissolving,|} {decay,|} entropymagic
+<lora:ExplosionMagic:0.6>, {excessive energy,|} {smoke,|} {shockwave,|glowing aura,|} explosionmagic
+<lora:CreationMagic:0.6>, {particles stream,|} {fragmented construct,|} {ethereal creation,|} creationmagic
+<lora:DemonicTech:0.6>, {scifi,|**(scifi:1.1),**|} demonictech
+<lora:UltraBlackholeTech:0.6>, {25%warp,|} {scifi,|**(scifi:1.1),**|} {excessive energy,|} ulblackholetech
+<lora:InfraBlackholeTech:0.6>, {25%warp,|} {scifi,|**(scifi:1.1),**|} {excessive energy,|} inblackholetech
+<lora:ElementalMagicAIv2:0.6>, {IceMagicAI|fireMagicAI|LightningMagicAI}
+<lora:ldv2:0.6>, {glowing,|} {electricity,|} {purple|blue|yellow|red|white|orange}, Lightning
+<lora:Lightning:0.6>, lightning
+<lora:ThunderMagic:0.6>, {excessive energy,|} {charged aura,|} thundermagic
+<lora:ChronomancyAI:0.5>, ChronomancyAI, chronomancy
+<lora:AbsinthePunkAI:0.5>, AbsinthePunkAI
+<lora:DonMD34thM4g1c:0.6>, DonMD34thM4g1c
+<lora:WitchcraftPunkAI:0.5>, WitchcraftPunkAI
+<lora:HorrorBundlev4:0.6>, BoneyardAI, bone **(skeleton, undead, skeletal:1.2),**
+<lora:BoneMagic:0.6>, {fragmented bones,|} {energy stream,|} bonemagic **(skeleton, undead, skeletal:1.2),**
+<lora:YinYangTech:0.6>, {yin,|yang,|yinyang,|} {25%{electric|water|wind} flow,|} yinyangtech
+<lora:DruidMagicAI:0.5>, DruidMagicAI, druidic
+<lora:RootsBranchesAIv5:0.4>, RootsBranchesAI
+<lora:NatureStyle_530620:0.7>, naturestyle
+<lora:DonML34f_v2:0.6>, DonML34f
+<lora:MyceliumTech:0.5>, {spongy,|} {psychedelic,|} {mycelia,|} {scifi,|**(scifi:1.1),**|} myceliumtech
+<lora:AngelicAI:0.5>, AngelicAI
+<lora:BlessedTech:0.6>, {blessed,|} {aura,|} {scifi|medieval}, blessedtech
+<lora:bronzepunkai:0.5>, bronzepunkai, bronze
+{<lora:ArtDecoAI:0.3>, ArtDecoAI,|} 1920s art deco
+<lora:GrecoRomaPunkAI:0.6>, {romapunkai|grecopunkai}
+<lora:CulturePunkBundle-000007:0.5>, OldEgyptAI, ancient egyptian
+<lora:ShinobiTech:0.6>, {bulky metal,|} {cyberpunk,|} {neon lights,|} {shinobi,|} shinobitech
+<lora:SamuraiPunkAIv3:0.6>, SamuraiPunkAI
+<lora:MongolPunkAI:0.6>, MongolPunkAI, mongolian {steppe nomad|}
+<lora:1001ArabianNightsV3:0.6>, 1001ArabianNights
+<lora:MahabharataPunkAI:0.6>, MahabharataPunkAI
+<lora:DonMF43:0.6>, {fog,|} {darkness,|} DonMF43, Fae
+<lora:CulturePunkBundle-000007:0.5>, fairytaleai, fairytale
+<lora:CulturePunkBundle-000007:0.3>, piratepunkai, pirate
+<lora:CulturePunkBundle-000007:0.5>, vikingpunkai, norse viking
+<lora:CulturePunkBundle-000007:0.5>, tikiai, tiki
+<lora:CulturePunkBundle-000007:0.5>, zulupunkai, zulu
+<lora:TotemPunkAI:0.5>, totempunkai
+<lora:CeltPunkAI:0.5>, CeltPunkAI, {tribal|} {barbarian|} celtic
+<lora:ExpeditionStyle:0.6>, ExpeditionStyle
+<lora:ZonaiAIv8:0.6>, ZonaiAI
+<lora:Dra9onScaleAI:0.5>, Dr490nSc4leAI
+<lora:BohoAI:0.6>, bohoai, boho
+<lora:WorldofEarthTEST:0.7>, worldofearth
+<lora:DonMS4ndW0rld:0.6>, {made of sand,|made of sandstone,|} {desert,|} DonMS4ndW0rld
+<lora:StonepunkAI:0.6>, stonepunkAI, stone
+<lora:WoodIronAIv2:0.6>, WoodIronAI
+<lora:LuxTech:0.6>, {cyberpunk,|} {gold,|} {luxurious,|} {scifi,|**(scifi:1.1),**|} luxtech
+<lora:GoldenTech:0.6>, {golden,|} {reflective,|} {scifi,|**(scifi:1.1),**|} goldentech
+<lora:DecorationBundlev2:0.6>, SilverSapphireAI
+<lora:DecorationBundlev2:0.4>, ivorygoldai, ivory-gold
+<lora:DecorationBundlev2:0.6> EbonyGoldAI
+<lora:DecorationBundlev2:0.6>, stainedglassai, stained glass
+<lora:DecorationBundlev2:0.5>, crystallineAI, crystalline
+<lora:DecorationBundlev2:0.4>, GemstoneAI, gemstone
+<lora:DecorationBundlev2:0.6>, AzulejoAI, azulejo
+<lora:DecorationBundlev2:0.6>, CircuitBoardAI, electronic
+<lora:DecorationBundlev2:0.6>, GlassSteelAI
+<lora:smoke_model:0.4>, smokestyle
+<lora:WorldofMist:0.6>, worldofmist
+<lora:WebbedTech:0.4>, {scifi,|**(scifi:1.1),**|} {fuzzy organic webs,|} webbedtech
+<lora:AlchemyPunkAI:0.6>, alchemypunkai
+<lora:MusketPunkAI:0.6>, MusketPunkAI
+<lora:CattlePunkAI:0.6>, CattlePunkAI
+<lora:SteamPunkBundleV3:0.5>, GasLampFantasyAI
+<lora:SteamPunkBundleV3:0.5>, CoalPunkAI, {coal-powered|}
+<lora:SteamPunkBundleV3:0.5>, AetherpunkAI
+<lora:SteamPunkBundleV3:0.5>, ManyPipesAI
+<lora:SteamPunkBundleV3:0.4>, {steampunkai, steampunk|cogpunkai, cogpunk}
+<lora:DwemerTech:0.7> dwemertech{, ancient|}{, brass|}
+<lora:PunkBundleAI:0.4>, dieselpunkai, {ww2|1940s} dieselpunk
+<lora:PunkBundleAI:0.4>, {valvepunkai|teslapunkai}, retro-futuristic
+<lora:WindTech:0.6> {scifi,|**(scifi:1.1),**|} {(cyberpunk:0.7),|} {pipes,|} windtech
+<lora:JoltTech:0.6>, {excessive energy,|} {thunder,|power,|lightning,|storm,|bolt,|sparks,|electricity,|} {scifi,|**(scifi:1.1),**|} jolttech
+<lora:RetroFuturismAI:0.5>, RetroFuturismAI, retro-futurism
+<lora:1970RetroFuturism:0.6>, 1970retrofuturism, 1970s
+<lora:RetrowaveTech:0.6>, {1980s,|futuristic,|scifi,|bladerunner,|} {synthwave,|} {virtual,|} {vaporwave,|} {wirefrme,|} retrowavetech
+<lora:BiophyllTech:0.6>, {fully-organic,|bio,|} {bioluminescent,|} BiophyllTech
+<lora:ExoBioTech:0.6> {bio,|} {scifi,|**(scifi:1.1),**|} exobiotech
+<lora:SolarpunkAI:0.5>, {SolarpunkAI|green-powered}, solarpunk
+<lora:BambooTech:0.7>, {scifi,|**(scifi:1.1),**|} {bamboo,|} {fibers,|} bambootech
+<lora:AntimatterTech-20:0.5>, antitech, antimatter
+<lora:FragRealityTech:0.6>, {shattered warped reality,|} {scifi,|**(scifi:1.1),**|} fragrealitytech
+<lora:AbyssalTech:0.7>, {dark energy,|} {ethereal,|} {dissolving,|} {see-through,|} {abyss,|} {scifi,|**(scifi:1.1),**|} abyssaltech
+<lora:NodesTech:0.6>, {data-space,|} {holographic,|} NodesTech
+<lora:GlassTech-20:0.6>, glasstech, glass
+<lora:OpticalTech:0.6>, {scifi,|**(scifi:1.1),**|}  {optical fibers,|} {inner glow,|} opticaltech
+<lora:LEDarrayTech:0.7>, {tron,|} {scifi,|**(scifi:1.1),**|} {geometrical,|} ledarraytech
+<lora:ChromeTech:0.6>, {scifi,|**(scifi:1.1),**|} {chrome,|} {metallic,|} chrometech
+<lora:PastTech:0.6>, {synthetic,|} {transparent,|} plasttech
+<lora:HydroTech:0.6>, {scifi,|**(scifi:1.1),**|} hydrotech
+<lora:AtlantisTech:0.6>, {shell,|} {bioluminescent,|} {scifi,|**(scifi:1.1),**|} {atlantistech,|} atlantistech
+<lora:LunarPunkAI:0.6>, LunarPunkAI
+<lora:NeoFuturisticTech-20:0.6>, {sleek,|} neotech
+<lora:CarthageTech:0.6> {scifi,|**(scifi:1.1),**|} {solar age,|} {gold mosaic,|} carthagetech
+<lora:Type3Tech:0.6>,  {scifi,|**(scifi:1.1),**|} {type 3 civilization,|} type3tech
+<lora:Xenomechanical World:0.6> xenomechanicalworld
+<lora:OrokinTech:0.5>, {scifi,|**(scifi:1.1),**|} {smooth,|} {gold,|} orokintech
+<lora:StealthTech:0.6>, {cutting edge,|} {sleek angular,|} {scifi,|**(scifi:1.1),**|} stealthtech
+<lora:HorrorBundlev4:0.4>, 1nf3rnalAI, infernal
+<lora:MagmaTech:0.5>, {lava,|} MagmaTech
+<lora:ExoMagmaTech:0.6>, {translucent,|}  {scifi,|**(scifi:1.1),**|} {lava made,|} exomagmatech
+<lora:FrostRaceTech:0.5>, {cryogenic,|} frostracetech
+<lora:WorldofIce:0.6>, {magical,|} {frosty,|} {frozen, **(disney, anna, elsa:1.2),**|} {scifi,|fantasy,|} worldofice
+<lora:postapocalypseAI:0.4>, postapoAI, post-apocalyptic {dark dystopian|}
+<lora:OxideTech:0.6>, {junker,|} {scifi,|**(scifi:1.1),**|} {rusty steel,|} oxidetech
+<lora:ToxicPunkAI:0.6>, ToxicPunkAI
+<lora:UraniumTech:0.6>, {scifi,|**(scifi:1.1),**|} {radiation,|} {transparent,|} {nuclear,|} {see-through,|} uraniumtech
+<lora:PlasmaTech:0.6>, {glass,|} {plasma filaments,|} {purple hues,|} {scifi,|**(scifi:1.1),**|} plasmatech
+<lora:PrecursorTech:0.6>, {geometrical steel,|} {scifi,|**(scifi:1.1),**|} precursortech
+<lora:ConstructionyardAIV3:0.6>, constructionyardai
+<lora:TerranAIv2:0.5>, TerranAI, starcraft
+<lora:CnCGDIAIv2:0.6>, CnCGDIAI
+<lora:CnCNODAIv2:0.6>, CnCNODAI
+<lora:Cyber_Egypt:0.6>, Cyber_Egypt
+<lora:AdsTech:0.6>, {pixelated LED,|} {colorful symbols,|} {hologram,|} {scifi,|**(scifi:1.1),**|}, adstech
+<lora:MalwareTech:0.6>, {malware glitch,|} {pixelated,|} {cyberpunk,|} {scifi,|**(scifi:1.1),**|}  matwaretech
+<lora:HackedTech:0.6>, {scifi,|**(scifi:1.1),**|} {cyberpunk,|} {picelated,|} {data stream,|} hackedtech
+<lora:Neonpunkai-8:0.4>, Neonpunkai, neon
+<lora:CyberPunkAI:0.6>, {neon,|} CyberpunkAI
+<lora:Unholy:0.5>, Sc3pt4, scifi
+<lora:BrutalistTech:0.6>, {scifi,|**(scifi:1.1),**|} {cement,|} brutaltech
+<lora:Atompunk v.3:0.6>, atompunk
+<lora:SovietPunkAIv2:0.6>, sovietpunkai, soviet {communist|}
+<lora:W4RH4M(9):0.7> {Adeptus Mechanicus|Ultramarine}, in the style of W4RH4M, warhammer 40k
+<lora:ChaosMarineStyleAISD15:0.4>, ChaosMarineStyleAI
+<lora:OrkStyleAISD15:0.6>, OrkstyleAI
+<lora:BioshockAEST:0.6>, {art deco,|} BioshockAEST
+<lora:BioShockPunk:0.4>, BioShockPunk
+renaissance
+victorian
+high fantasy medieval
+{sinister|} {(DarkFantasy:0.8),|} dark fantasy
+occult, {dark|} cultist
+{{grand|} decorative religious style,|} {purple colors,|} {orthodox christian inspired,|} {neo-|}byzantine
+tribal {hawaian|mayan|aztec|polynesian}
+imperial chinese
+feudal japan
+fallout
+bioshock infinite
+hogwarts
+21st century modern
+frontier western
+tropical jungle
+natural forest
+arid desert middle-eastern
+arctic winter
+starwars
+startrek
+masseffect
+madmax
+naval marine military
+militaristic authoritarian dictatorship
+dystopian futuristic
+(space_style:0.6), cosmic outer space
